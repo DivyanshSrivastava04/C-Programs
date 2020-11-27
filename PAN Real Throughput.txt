@@ -1,4 +1,4 @@
-Time(sec)		Real time throughput of PAN coordinator(kbps)
+Time(sec)		Real_time_throughput_of_PAN_coordinator(kbps)
 34.844352			6741.906970
 36.847232			6485.860202
 38.851392			8009.780917
