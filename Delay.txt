@@ -1,4 +1,4 @@
-Packet send time(sec)	Packet delay(sec)
+Packet_send_time(sec)	Packet_delay(sec)
 32.831232		0.004896
 32.842432		0.004896
 32.853952		0.004896
